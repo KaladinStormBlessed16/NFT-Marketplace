@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nft-box {
+    margin-right: 2rem;
+    width: 300px;
+}
+
+.nft-box-img {
+    align-self: center;
+}
